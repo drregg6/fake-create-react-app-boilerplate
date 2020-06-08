@@ -1,5 +1,5 @@
 {
-  "name": "cra-boilerplate",
+  "name": "fake-cra-boilerplate",
   "version": "1.0.0",
   "description": "Making a create-react-app without npx create-react-app",
   "main": "index.js",
